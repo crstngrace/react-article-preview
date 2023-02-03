@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/react-article-preview/static/js/main.8bfa9021.js",
+    "static/media/Manrope-VariableFont_wght.ttf": "/react-article-preview/static/media/Manrope-VariableFont_wght.cae461b0196986f4250c.ttf",
+    "index.html": "/react-article-preview/index.html",
+    "main.8bfa9021.js.map": "/react-article-preview/static/js/main.8bfa9021.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.8bfa9021.js"
+  ]
+}
